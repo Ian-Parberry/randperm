@@ -1,4 +1,4 @@
-# randperm
+# Pseudo-random permutation generator
 
 The source code for this pseudo-random permutation generator is written and maintained by
 [Ian Parberry](http://ianparberry.com). See 
