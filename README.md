@@ -2,7 +2,7 @@
 
 The source code for this pseudo-random permutation generator is written and maintained by
 [Ian Parberry](http://ianparberry.com). See 
-[https://ian-parberry.github.io/randperm/](https://ian-parberry.github.io/sortingnetworkviewer/)
+[https://ian-parberry.github.io/randperm/](https://ian-parberry.github.io/randperm/)
 for documentation.
 
 ## Requirements
